@@ -1,0 +1,20 @@
+{
+  "name": "dddddd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "puppeteer": "^19.5.2",
+    "puppyter": "^0.0.1-beta.1"
+  },
+  "description": ""
+}
